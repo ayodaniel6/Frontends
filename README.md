@@ -9,6 +9,7 @@ This is a solution to the [Product preview card component challenge on Frontend 
   - [Screenshot](#screenshot)
 - [My process](#my-process)
   - [Built with](#built-with)
+  - [Links](#links)
   - [What I learned](#what-i-learned)
 - [Author](#author)
 
@@ -41,7 +42,8 @@ I allow the Product Image to take up a fraction of two then the Product info tak
 - CSS custom properties
 - Flexbox
 - CSS Grid
-
+### Links
+Live Site URL: (https://ayodaniel6.github.io/Frontends/card.html)
 ### What I learned
 
 it help reinforce my knowledge on CSS display-Grid
