@@ -28,7 +28,7 @@ Users should be able to:
 
 ### Screenshot
 
-![](Shots)
+![](Shots/Product_desktop.png)
 
 ## My process
 
